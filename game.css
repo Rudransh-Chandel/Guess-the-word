@@ -12,6 +12,8 @@ body
 		border-radius: 15px;
 	}
 
+
+
 #login_btn
 {
 width: 4%;
@@ -20,7 +22,7 @@ border-radius: 5px;
 border-color: black;
 background-color: gray;
 font-style: oblique;
-color: darkslategray;
+color: whitesmoke;
 }
 
 #player1_login , #player2_login
